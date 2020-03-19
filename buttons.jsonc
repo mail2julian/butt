@@ -2,11 +2,11 @@
     "buttons": [
         {
             "name":"MyButton",
-            "script":"echo test > somefile.txt"
+            "script":"dockerfiel.bat"
         },
         {
             "name": "john",
-            "script": "del -y .git && git init && git add . && git commit -m 'add' &&  git remote add origin https://github.com/mail2julian/butt.git && git push -u origin master"
+            "script": "del .git && git init && git add . && git commit -m 'add' &&  git remote add origin https://github.com/mail2julian/butt.git && git push -u origin master"
             
         }
     ]
