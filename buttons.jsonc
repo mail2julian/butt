@@ -1,0 +1,13 @@
+{
+    "buttons": [
+        {
+            "name":"MyButton",
+            "script":"echo test > somefile.txt"
+        },
+        {
+            "name": "john",
+            "script": "git init && git add . && git commit -m 'add'"
+            
+        }
+    ]
+}
